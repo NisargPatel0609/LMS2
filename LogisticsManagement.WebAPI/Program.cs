@@ -11,6 +11,7 @@ namespace LogisticsManagement.WebAPI
 {
     public class Program
     {
+        // comment
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
